@@ -4,6 +4,7 @@
 * @c: Variable text
 * Return: Always 0.
 */
+
 int _isupper(int c)
 {
 
@@ -14,7 +15,7 @@ return (1);
 }
 else
 {
- return (0);
+return (0);
 }
 
 }
